@@ -1,42 +1,7 @@
 # Gerenciador-de-tarefas
-O programa oferece os seguintes comandos:
-
-Comando	Função
-1	Adicionar nova tarefa
-2	Listar tarefas existentes
-3	Marcar tarefa como concluída
-4	Editar o título de uma tarefa
-5	Remover uma tarefa
-6	Encerrar o programa
-
-Adicionar tarefa
-
-Digite um comando: 1
-Digite o título da tarefa: Estudar Python
-Tarefa adicionada!
-
-Listar tarefas
-
-Digite um comando: 2
-
-LISTA DE TAREFAS:
-0 - [ ] Estudar Python
-
-Marcar como concluída
-
-Digite um comando: 3
-Digite o número da tarefa: 0
-Tarefa marcada como concluída!
-
-Listagem após conclusão
-
-LISTA DE TAREFAS:
-0 - [✓] Estudar Python
-
 
 alunos
 André Phillip Costa Serra
 Daniel Elias Castro Aguiar
 Luis Eduardo Soares Leão da Silva
 # Gerenciador-de-tarefas
-
